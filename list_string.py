@@ -13,3 +13,11 @@ print("Shopping_List:", message)
 
 string = message.split(", ")
 print("Back to List:", string)
+
+
+guest_list = ['faith', 'mary', 'helen', 'peter']
+
+print(guest_list)
+
+for guest in guest_list:
+    print(f"Hi {guest.title()}, I'm inviting you to dinner with me.")
