@@ -8,5 +8,23 @@
         "id": "T002",
         "title": "mouse",
         "description": "mouse need to be change"
+    },
+    {
+        "id": "T003",
+        "title": "wifi",
+        "description": "wifi connection problems",
+        "ai_suggestions": "AI suggestions unavailable: API key is missing."
+    },
+    {
+        "id": "T004",
+        "title": "mouse",
+        "description": "mouse is not connecting",
+        "ai_suggestions": "AI suggestions unavailable: API key is missing."
+    },
+    {
+        "id": "T005",
+        "title": "network",
+        "description": "network connection is very slow",
+        "ai_suggestions": "1. Restart your computer and your network router to clear temporary errors.\n2. Disconnect other heavy download devices to see if the speed improves.\n3. Run a network speed test and note the results to check against your plan."
     }
 ]
