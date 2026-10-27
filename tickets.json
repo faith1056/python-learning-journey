@@ -26,5 +26,35 @@
         "title": "network",
         "description": "network connection is very slow",
         "ai_suggestions": "1. Restart your computer and your network router to clear temporary errors.\n2. Disconnect other heavy download devices to see if the speed improves.\n3. Run a network speed test and note the results to check against your plan."
+    },
+    {
+        "id": "T006",
+        "title": "wifi",
+        "description": "wifi connection issues",
+        "ai_suggestions": "AI suggestions unavailable: API key is missing."
+    },
+    {
+        "id": "T007",
+        "title": "internet",
+        "description": "my desktop does not connects to the internet",
+        "ai_suggestions": "AI suggestions unavailable: API key is missing."
+    },
+    {
+        "id": "T008",
+        "title": "mouse",
+        "description": "mouse issues",
+        "ai_suggestions": "AI suggestions unavailable: The request timed out."
+    },
+    {
+        "id": "T009",
+        "title": "wi-fi problem",
+        "description": "the internet connection in the computer lab is very slow",
+        "ai_suggestions": "1. Restart the main network router and switch in the computer lab.\n2. Check if a large file download or update is running on any of the computers.\n3. Test the internet speed on one computer directly connected to the wall port with an Ethernet cable."
+    },
+    {
+        "id": "T010",
+        "title": "wifi",
+        "description": "no internet connection",
+        "ai_suggestions": "1. Check that the network cable is securely plugged in, or that you are connected to the correct Wi-Fi network.\n2. Restart your router and modem by unplugging the power cable for 10 seconds, then plugging it back in.\n3. Restart your computer to clear out any temporary network glitches."
     }
 ]
